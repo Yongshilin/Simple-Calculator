@@ -7,7 +7,7 @@ This is a simple Dietary Reference Intakes(DRIs) Calculator that users can inter
 - S)ave current list to a file
 - Q)uit.
 
-The user can add more than one person's information, display the result as a whole, and save the result into a local file. The user can load the saved file, add new information or reset & add new data.
+The user can add more than one person's information, display the result as a whole, and save the result into a local file(default name: NutritionCalList). The user can load the saved file, add new information or reset & add new data. The user can read the saved file info. with txt.
 
 The original data source is from https://ods.od.nih.gov/HealthInformation/nutrientrecommendations.aspx.
 
